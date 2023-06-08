@@ -1,1 +1,1 @@
-This is getting cool
+This command line stuff is really cool
